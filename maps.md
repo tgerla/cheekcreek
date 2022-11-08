@@ -1,3 +1,3 @@
 # Maps
 
-Maps
+![Map](images/map.png)
